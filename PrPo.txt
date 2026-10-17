@@ -1,1 +1,30 @@
+Last Updated: October 11, 2026
 
+Bot Name: Hungarian Life RP
+
+Associated Server: Hungarian Life RP
+
+At Hungarian Life RP, we respect your digital privacy. This Privacy Policy outlines how Hungarian Life RP handles information, ensuring full transparency and compliance with data protection standards and Discord’s Developer Policies.
+
+1. Exactly What Data We Collect (and Why)
+Data Collection Status: Hungarian Life RP collects nothing.
+
+Details: The bot does not log, track, store, or archive personal data, message contents, user profiles, or usage metrics beyond transient, real-time command processing required by Discord's API to execute functions. Because no data is collected, no profiling or behavioral tracking takes place.
+
+2. Data Retention
+Retention Policy: Since no personal data, logs, or persistent user information are gathered or stored by Hungarian Life RP, no data retention period applies. Transient API requests handled during command execution are immediately cleared by Discord's system architecture.
+
+3. Third-Party Sharing & Data Sales
+Zero Sharing: We do not sell, rent, trade, or otherwise transfer any data to third parties.
+
+Data Recipients: Data is shared with no one.
+
+4. User Rights & Inquiries
+Because Hungarian Life RP does not collect or store your personal data, there is typically no stored record to access or delete. However, if you have privacy-related questions, concerns, or wish to make an inquiry regarding your interaction with the bot or the server:
+
+How to Contact Us: You can reach out to the administrative team by opening a support ticket directly within the Hungarian Life RP Discord server.
+
+5. Compliance with Discord Developer Terms of Service
+Ecosystem Integrity: Hungarian Life RP is operated in strict compliance with the Discord Developer Policy and Terms of Service.
+
+Transparency: We maintain full transparency regarding our operational footprint. Should the bot's features expand to include data collection in the future, this Privacy Policy and our users will be updated prior to implementation.

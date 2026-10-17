@@ -1,1 +1,38 @@
+Last Updated: October 11, 2026
 
+Bot Name: Hungarian Life RP
+
+Associated Server: Hungarian Life RP
+
+Welcome to Hungarian Life RP! By adding the Hungarian Life RP bot to your Discord server, interacting with its commands, or participating in the Hungarian Life RP Discord community, you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please refrain from using the bot.
+
+1. Acceptance of Terms
+Binding Agreement: By inviting Hungarian Life RP to a server, interacting with its features, or remaining a member of the Hungarian Life RP Discord server, you acknowledge that you have read, understood, and accepted these Terms of Service.
+
+Updates: We reserve the right to modify these terms at any time. Continued use of the bot following any changes constitutes your acceptance of the revised terms.
+
+2. Code of Conduct & Fair Use
+To ensure a safe, fair, and stable environment for all community members, you agree not to engage in the following prohibited behaviors:
+
+Exploiting & Hacking: Attempting to exploit, reverse-engineer, disrupt, or bypass the security mechanisms, rate limits, or code architecture of Hungarian Life RP.
+
+Command Spamming: Intentionally spamming bot commands or flooding the bot's interface to cause lag, denial of service, or artificial wear on the system.
+
+Abuse & Harassment: Utilizing the bot to harass, threaten, or target other community members or staff.
+
+Administrative Restrictions: Management commands are strictly restricted to users holding authorized Admin or Staff roles. Unauthorized attempts to access or execute administrative commands are strictly prohibited.
+
+3. Data Ownership & Virtual Assets
+Virtual Items and Currency: Any virtual items, assets, roles, or in-game currency associated with Hungarian Life RP or managed via Hungarian Life RP exist solely within the digital scope of the game and Discord server.
+
+No Real-World Value: Virtual items, currency, and accounts possess no real-world monetary value. They cannot be exchanged, redeemed, or cashed out for real-world currency, goods, or services.
+
+4. Limitation of Liability
+"As-Is" Basis: Hungarian Life RP is provided on an "as-is" and "as-available" basis without warranties of any kind, either express or implied.
+
+Downtime & Data Loss: We are not responsible or liable for any service interruptions, unexpected bot downtime, command failures, or loss of configuration data.
+
+Third-Party Platforms: We bear no responsibility for actions taken by Discord, FiveM, or third-party service providers that may impact your access to the bot or server.
+
+5. Termination of Access
+Right to Ban/Restrict: We reserve the right, at our sole discretion, to suspend, ban, or terminate any user’s or server’s access to Hungarian Life RP at any time, with or without notice, for violations of these Terms of Service, the Discord Terms of Service / Guidelines, or for any other reason deemed necessary to protect the Hungarian Life RP community.
